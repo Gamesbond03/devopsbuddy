@@ -1,1 +1,3 @@
 # devopsbuddy
+
+mvn clean install
